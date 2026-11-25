@@ -1,0 +1,21 @@
+{
+    "name": "OpenHeal.Games.Bubbles",
+    "rootNamespace": "Games.Bubbles",
+    "references": [
+        "OpenHeal.Core",
+        "BubblesGame.Data",
+        "OpenHeal.Shared",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+
